@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            M175 Labs
+longtitle:        M175 Labs
+author:           M175 Labs
+email:            m175labs@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Create, Build, Open
 
 version:          1.0
 gitbook_version:  3.2.3
@@ -22,7 +22,7 @@ toc:
   h_max:   3
 
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     /assets/gitbook/images/favicon.ico
+favicon_path:     /assets/gitbook/images/m175_32_32.ico
 
 # markdown render engine.
 markdown:         kramdown
@@ -72,3 +72,6 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+twitter_username:       m175_labs
+github_username:       m175_labs
